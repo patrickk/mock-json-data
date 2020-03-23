@@ -34,6 +34,41 @@
       "id": 3,
       "name": "750i",
       "make": "BMW"
+    },
+    {
+      "id": 4,
+      "name": "RX-200",
+      "make": "Honda"
+    },
+    {
+      "id": 5,
+      "name": "F-250",
+      "make": "Ford"
+    },
+    {
+      "id": 6,
+      "name": "350i",
+      "make": "BMW"
+    },
+    {
+      "id": 7,
+      "name": "Model 3",
+      "make": "Tesla"
+    },
+    {
+      "id": 8,
+      "name": "Impala",
+      "make": "GM"
+    },
+    {
+      "id": 9,
+      "name": "Model S",
+      "make": "Tesla"
+    },
+    {
+      "id": 10,
+      "name": "Escalade",
+      "make": "GM"
     }
   ],
   "motorcycles": [
@@ -51,6 +86,41 @@
       "id": 3,
       "name": "B-700",
       "make": "BMW"
+    },
+    {
+      "id": 4,
+      "name": "RT-400",
+      "make": "Honda"
+    },
+    {
+      "id": 5,
+      "name": "M-250",
+      "make": "Ford"
+    },
+    {
+      "id": 6,
+      "name": "B-1337",
+      "make": "BMW"
+    },
+    {
+      "id": 7,
+      "name": "Model M",
+      "make": "Tesla"
+    },
+    {
+      "id": 8,
+      "name": "G-999",
+      "make": "GM"
+    },
+    {
+      "id": 9,
+      "name": "Model M123",
+      "make": "Tesla"
+    },
+    {
+      "id": 10,
+      "name": "G-998",
+      "make": "GM"
     }
   ]
 }
