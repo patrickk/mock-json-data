@@ -1,8 +1,22 @@
 {
-  "lineItem": {
-    "id": 1,
-    "name": "Line Item #1",
-    "start_date": "2020-04-22T03:59:59Z",
-    "end_date": "2020-04-22T03:59:59Z"
-  }
+  "lineItems": [
+    {
+      "id": 1,
+      "name": "Line Item #1",
+      "start_date": "2020-04-22T03:59:59Z",
+      "end_date": "2020-04-22T03:59:59Z"
+    },
+    {
+      "id": 2,
+      "name": "Line Item #2",
+      "start_date": "2020-04-22T03:59:59Z",
+      "end_date": "2020-04-22T03:59:59Z"
+    },
+    {
+      "id": 3,
+      "name": "Line Item #3",
+      "start_date": "2020-04-22T03:59:59Z",
+      "end_date": "2020-04-22T03:59:59Z"
+    }
+  ]
 }
