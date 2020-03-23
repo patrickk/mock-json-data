@@ -18,5 +18,39 @@
       "start_date": "2020-04-22T03:59:59Z",
       "end_date": "2020-04-22T03:59:59Z"
     }
+  ],
+  "cars": [
+    {
+      "id": 1,
+      "name": "RX-100",
+      "make": "Honda"
+    },
+    {
+      "id": 2,
+      "name": "F-150",
+      "make": "Ford"
+    },
+    {
+      "id": 3,
+      "name": "750i",
+      "make": "BMW"
+    }
+  ],
+  "motorcycles": [
+    {
+      "id": 1,
+      "name": "RT-100",
+      "make": "Honda"
+    },
+    {
+      "id": 2,
+      "name": "M-150",
+      "make": "Ford"
+    },
+    {
+      "id": 3,
+      "name": "B-700",
+      "make": "BMW"
+    }
   ]
 }
